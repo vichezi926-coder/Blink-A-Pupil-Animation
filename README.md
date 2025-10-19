@@ -51,7 +51,7 @@ I undertook this project as part of my coursework to practice code literacy and 
 
 Here is the pupil animation demo:
 
-![Pupil Animation Demo](images)
+![Pupil Animation Demo](images/pupil1.GIF)
   
 ---
 
