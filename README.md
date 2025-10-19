@@ -105,6 +105,4 @@ This project was inspired by:
 ---
 
 ## Contact
-Created by **Zhijia He** (Student ID: 14563249, Tutorial T10)  
-Feel free to connect if you have feedback!  
-
+Created by **Zhijia He** (Student ID: 14563249, Tutorial T10)    
