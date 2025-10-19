@@ -33,7 +33,7 @@ I undertook this project as part of my coursework to practice code literacy and 
 
 ---
 
-## ✨ Features
+## Features
 - Real-time pupil animation  
 - Emotional presets:  
   - **1 = Calm**  
@@ -84,7 +84,7 @@ Steps:
 ---
 
 ## Project Status
-Project is: **Complete** ✅  
+Project is: **Complete**   
 The prototype works as intended and demonstrates code literacy.  
 
 ---
