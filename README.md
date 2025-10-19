@@ -4,17 +4,17 @@ This is a small interactive project that was built with Processing (Python Mode)
 It shows how pupils get bigger and smaller based on light and emotions.
 The aim is to show how code can turn invisible psychological reactions into digital art.
 
-##  Table of Contents
-- General Info  
-- Technologies Used  
-- Features  
-- Screenshots  
-- Setup  
-- Usage  
-- Project Status  
-- Room for Improvement  
-- Acknowledgements  
-- Contact  
+## Table of Contents
+- [General Info](#general-info)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ---
 
