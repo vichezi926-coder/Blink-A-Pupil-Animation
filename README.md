@@ -98,7 +98,8 @@ The prototype works as intended and demonstrates code literacy.
 
 ## Acknowledgements
 This project was inspired by:  
-- Daniel Shiffman’s *The Nature of Code* and [The Coding Train](https://www.youtube.com/c/TheCodingTrain)  
+- Daniel Shiffman’s *The Nature of Code*
+-  [The Coding Train](https://www.youtube.com/c/TheCodingTrain)  
 - Processing Foundation – [processing.org](https://processing.org)  
 - OpenProcessing community sketches  
 
